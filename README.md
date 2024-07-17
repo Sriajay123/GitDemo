@@ -4,6 +4,6 @@ git add file name
 git commit -m""
 git pushgit 
 git pull
-git status
+git checkout -b[branch name]
 git log
 
